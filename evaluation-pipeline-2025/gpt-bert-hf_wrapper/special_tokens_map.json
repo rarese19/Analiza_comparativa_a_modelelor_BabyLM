@@ -1,0 +1,25 @@
+{
+  "unk_token": "<unk>",
+  "pad_token": "<pad>",
+  "cls_token": "<s>",
+  "sep_token": "</s>",
+  "mask_token": "<mask>",
+  "additional_special_tokens": [
+    "<special_0>",
+    "<special_1>",
+    "<special_2>",
+    "<special_3>",
+    "<special_4>",
+    "<special_5>",
+    "<special_6>",
+    "<special_7>",
+    "<special_8>",
+    "<special_9>",
+    "<special_10>",
+    "<special_11>",
+    "<special_12>",
+    "<special_13>",
+    "<special_14>",
+    "<special_15>"
+  ]
+}
