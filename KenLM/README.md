@@ -1,0 +1,3 @@
+# KenLM
+
+Pentru a antrena KenLM am folosit [tutorialul](https://github.com/kmario23/KenLM-training) și [repository-ul oficial](https://github.com/kpu/kenlm). Sunt necesare datele de antrenare [Strict-Small](https://www.kaggle.com/datasets/rarespapusoi/babylm-train-10m-cleaned) și [Strict](https://www.kaggle.com/datasets/rarespapusoi/babylm-train-100m-clean). Modelele antrenate pot fi găsite [aici](https://mega.nz/folder/yjhQmZiB#XQ4WDU3JOng5O5P_prPWug).
