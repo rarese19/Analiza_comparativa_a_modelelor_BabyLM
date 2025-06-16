@@ -1,0 +1,279 @@
+{
+  "0.00–0.20": [],
+  "0.20–0.40": [
+    {
+      "task": "existential_there_quantifiers_2",
+      "score": 0.23600000000000002
+    },
+    {
+      "task": "left_branch_island_echo_question",
+      "score": 0.337
+    },
+    {
+      "task": "sentential_subject_island",
+      "score": 0.364
+    }
+  ],
+  "0.40–0.60": [
+    {
+      "task": "principle_A_reconstruction",
+      "score": 0.435
+    },
+    {
+      "task": "npi_present_2",
+      "score": 0.5760000000000001
+    },
+    {
+      "task": "npi_present_1",
+      "score": 0.5770000000000001
+    },
+    {
+      "task": "complex_NP_island",
+      "score": 0.589
+    }
+  ],
+  "0.60–0.80": [
+    {
+      "task": "tough_vs_raising_1",
+      "score": 0.615
+    },
+    {
+      "task": "principle_A_domain_3",
+      "score": 0.626
+    },
+    {
+      "task": "principle_A_domain_2",
+      "score": 0.634
+    },
+    {
+      "task": "wh_vs_that_with_gap_long_distance",
+      "score": 0.6509999999999999
+    },
+    {
+      "task": "superlative_quantifiers_1",
+      "score": 0.67
+    },
+    {
+      "task": "principle_A_c_command",
+      "score": 0.674
+    },
+    {
+      "task": "drop_argument",
+      "score": 0.721
+    },
+    {
+      "task": "wh_questions_subject_gap_long_distance",
+      "score": 0.733
+    },
+    {
+      "task": "wh_questions_object_gap",
+      "score": 0.737
+    },
+    {
+      "task": "sentential_negation_npi_scope",
+      "score": 0.737
+    },
+    {
+      "task": "wh_island",
+      "score": 0.752
+    },
+    {
+      "task": "expletive_it_object_raising",
+      "score": 0.752
+    },
+    {
+      "task": "superlative_quantifiers_2",
+      "score": 0.765
+    },
+    {
+      "task": "ellipsis_n_bar_1",
+      "score": 0.768
+    },
+    {
+      "task": "inchoative",
+      "score": 0.773
+    },
+    {
+      "task": "transitive",
+      "score": 0.7759999999999999
+    },
+    {
+      "task": "coordinate_structure_constraint_complex_left_branch",
+      "score": 0.7759999999999999
+    },
+    {
+      "task": "animate_subject_passive",
+      "score": 0.7759999999999999
+    },
+    {
+      "task": "causative",
+      "score": 0.78
+    },
+    {
+      "task": "adjunct_island",
+      "score": 0.784
+    },
+    {
+      "task": "intransitive",
+      "score": 0.79
+    },
+    {
+      "task": "anaphor_gender_agreement",
+      "score": 0.79
+    }
+  ],
+  "0.80–1.00": [
+    {
+      "task": "passive_1",
+      "score": 0.812
+    },
+    {
+      "task": "regular_plural_subject_verb_agreement_2",
+      "score": 0.816
+    },
+    {
+      "task": "determiner_noun_agreement_irregular_1",
+      "score": 0.818
+    },
+    {
+      "task": "wh_questions_subject_gap",
+      "score": 0.8290000000000001
+    },
+    {
+      "task": "distractor_agreement_relative_clause",
+      "score": 0.8370000000000001
+    },
+    {
+      "task": "passive_2",
+      "score": 0.843
+    },
+    {
+      "task": "irregular_past_participle_verbs",
+      "score": 0.846
+    },
+    {
+      "task": "determiner_noun_agreement_with_adj_irregular_1",
+      "score": 0.8490000000000001
+    },
+    {
+      "task": "wh_vs_that_with_gap",
+      "score": 0.871
+    },
+    {
+      "task": "matrix_question_npi_licensor_present",
+      "score": 0.872
+    },
+    {
+      "task": "existential_there_object_raising",
+      "score": 0.877
+    },
+    {
+      "task": "regular_plural_subject_verb_agreement_1",
+      "score": 0.883
+    },
+    {
+      "task": "animate_subject_trans",
+      "score": 0.884
+    },
+    {
+      "task": "existential_there_subject_raising",
+      "score": 0.8909999999999999
+    },
+    {
+      "task": "irregular_plural_subject_verb_agreement_2",
+      "score": 0.892
+    },
+    {
+      "task": "irregular_plural_subject_verb_agreement_1",
+      "score": 0.895
+    },
+    {
+      "task": "left_branch_island_simple_question",
+      "score": 0.905
+    },
+    {
+      "task": "wh_vs_that_no_gap",
+      "score": 0.9059999999999999
+    },
+    {
+      "task": "tough_vs_raising_2",
+      "score": 0.907
+    },
+    {
+      "task": "anaphor_number_agreement",
+      "score": 0.909
+    },
+    {
+      "task": "principle_A_domain_1",
+      "score": 0.9209999999999999
+    },
+    {
+      "task": "coordinate_structure_constraint_object_extraction",
+      "score": 0.9229999999999999
+    },
+    {
+      "task": "only_npi_scope",
+      "score": 0.924
+    },
+    {
+      "task": "determiner_noun_agreement_with_adjective_1",
+      "score": 0.925
+    },
+    {
+      "task": "distractor_agreement_relational_noun",
+      "score": 0.934
+    },
+    {
+      "task": "determiner_noun_agreement_with_adj_irregular_2",
+      "score": 0.943
+    },
+    {
+      "task": "determiner_noun_agreement_irregular_2",
+      "score": 0.943
+    },
+    {
+      "task": "wh_vs_that_no_gap_long_distance",
+      "score": 0.9440000000000001
+    },
+    {
+      "task": "determiner_noun_agreement_with_adj_2",
+      "score": 0.953
+    },
+    {
+      "task": "only_npi_licensor_present",
+      "score": 0.961
+    },
+    {
+      "task": "existential_there_quantifiers_1",
+      "score": 0.966
+    },
+    {
+      "task": "ellipsis_n_bar_2",
+      "score": 0.966
+    },
+    {
+      "task": "principle_A_case_2",
+      "score": 0.9740000000000001
+    },
+    {
+      "task": "sentential_negation_npi_licensor_present",
+      "score": 0.9740000000000001
+    },
+    {
+      "task": "principle_A_case_1",
+      "score": 0.976
+    },
+    {
+      "task": "determiner_noun_agreement_1",
+      "score": 0.978
+    },
+    {
+      "task": "determiner_noun_agreement_2",
+      "score": 0.986
+    },
+    {
+      "task": "irregular_past_participle_adjectives",
+      "score": 0.996
+    }
+  ]
+}

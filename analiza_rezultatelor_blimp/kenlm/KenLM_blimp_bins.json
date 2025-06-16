@@ -1,0 +1,280 @@
+{
+  "0.00–0.20": [
+    {
+      "task": "wh_vs_that_with_gap",
+      "score": 0.09140369967355821
+    },
+    {
+      "task": "wh_vs_that_with_gap_long_distance",
+      "score": 0.0967032967032967
+    },
+    {
+      "task": "matrix_question_npi_licensor_present",
+      "score": 0.1054897739504844
+    },
+    {
+      "task": "principle_A_reconstruction",
+      "score": 0.16132368148914167
+    },
+    {
+      "task": "coordinate_structure_constraint_object_extraction",
+      "score": 0.1749209694415174
+    }
+  ],
+  "0.20–0.40": [
+    {
+      "task": "ellipsis_n_bar_1",
+      "score": 0.2281795511221945
+    },
+    {
+      "task": "tough_vs_raising_1",
+      "score": 0.2616033755274262
+    },
+    {
+      "task": "sentential_subject_island",
+      "score": 0.26326742976066597
+    },
+    {
+      "task": "sentential_negation_npi_scope",
+      "score": 0.2743972445464983
+    },
+    {
+      "task": "only_npi_scope",
+      "score": 0.3058542413381123
+    },
+    {
+      "task": "npi_present_2",
+      "score": 0.31400437636761486
+    },
+    {
+      "task": "coordinate_structure_constraint_complex_left_branch",
+      "score": 0.32781456953642385
+    },
+    {
+      "task": "npi_present_1",
+      "score": 0.33223322332233224
+    },
+    {
+      "task": "wh_island",
+      "score": 0.353125
+    }
+  ],
+  "0.40–0.60": [
+    {
+      "task": "principle_A_case_2",
+      "score": 0.44808743169398907
+    },
+    {
+      "task": "ellipsis_n_bar_2",
+      "score": 0.4673913043478261
+    },
+    {
+      "task": "determiner_noun_agreement_with_adj_2",
+      "score": 0.485653560042508
+    },
+    {
+      "task": "determiner_noun_agreement_2",
+      "score": 0.49194414607948445
+    },
+    {
+      "task": "causative",
+      "score": 0.49755501222493886
+    },
+    {
+      "task": "regular_plural_subject_verb_agreement_2",
+      "score": 0.5015873015873016
+    },
+    {
+      "task": "left_branch_island_simple_question",
+      "score": 0.5078864353312302
+    },
+    {
+      "task": "complex_NP_island",
+      "score": 0.5378250591016549
+    },
+    {
+      "task": "superlative_quantifiers_1",
+      "score": 0.5556690500510725
+    },
+    {
+      "task": "transitive",
+      "score": 0.5702764976958525
+    },
+    {
+      "task": "distractor_agreement_relative_clause",
+      "score": 0.5774971297359357
+    },
+    {
+      "task": "determiner_noun_agreement_with_adj_irregular_2",
+      "score": 0.5964285714285714
+    }
+  ],
+  "0.60–0.80": [
+    {
+      "task": "regular_plural_subject_verb_agreement_1",
+      "score": 0.6022471910112359
+    },
+    {
+      "task": "determiner_noun_agreement_irregular_2",
+      "score": 0.6048780487804878
+    },
+    {
+      "task": "distractor_agreement_relational_noun",
+      "score": 0.6129441624365483
+    },
+    {
+      "task": "wh_questions_object_gap",
+      "score": 0.619324796274738
+    },
+    {
+      "task": "irregular_past_participle_adjectives",
+      "score": 0.6222684703433923
+    },
+    {
+      "task": "irregular_plural_subject_verb_agreement_2",
+      "score": 0.6524663677130045
+    },
+    {
+      "task": "irregular_plural_subject_verb_agreement_1",
+      "score": 0.6529850746268657
+    },
+    {
+      "task": "existential_there_quantifiers_2",
+      "score": 0.6673984632272228
+    },
+    {
+      "task": "existential_there_quantifiers_1",
+      "score": 0.667741935483871
+    },
+    {
+      "task": "expletive_it_object_raising",
+      "score": 0.6693017127799736
+    },
+    {
+      "task": "existential_there_object_raising",
+      "score": 0.6822660098522167
+    },
+    {
+      "task": "anaphor_gender_agreement",
+      "score": 0.6879505664263645
+    },
+    {
+      "task": "principle_A_domain_2",
+      "score": 0.7081967213114754
+    },
+    {
+      "task": "existential_there_subject_raising",
+      "score": 0.724025974025974
+    },
+    {
+      "task": "irregular_past_participle_verbs",
+      "score": 0.7314225053078556
+    },
+    {
+      "task": "principle_A_c_command",
+      "score": 0.733615221987315
+    },
+    {
+      "task": "adjunct_island",
+      "score": 0.7564655172413793
+    },
+    {
+      "task": "determiner_noun_agreement_with_adj_irregular_1",
+      "score": 0.7715877437325905
+    },
+    {
+      "task": "tough_vs_raising_2",
+      "score": 0.7978260869565217
+    }
+  ],
+  "0.80–1.00": [
+    {
+      "task": "wh_questions_subject_gap_long_distance",
+      "score": 0.808634772462077
+    },
+    {
+      "task": "wh_questions_subject_gap",
+      "score": 0.8162583518930958
+    },
+    {
+      "task": "left_branch_island_echo_question",
+      "score": 0.8215417106652587
+    },
+    {
+      "task": "drop_argument",
+      "score": 0.842391304347826
+    },
+    {
+      "task": "anaphor_number_agreement",
+      "score": 0.8431793770139635
+    },
+    {
+      "task": "passive_1",
+      "score": 0.8535714285714285
+    },
+    {
+      "task": "inchoative",
+      "score": 0.8690058479532163
+    },
+    {
+      "task": "determiner_noun_agreement_irregular_1",
+      "score": 0.8942731277533039
+    },
+    {
+      "task": "wh_vs_that_no_gap",
+      "score": 0.8954703832752613
+    },
+    {
+      "task": "intransitive",
+      "score": 0.8986175115207373
+    },
+    {
+      "task": "wh_vs_that_no_gap_long_distance",
+      "score": 0.9028571428571428
+    },
+    {
+      "task": "animate_subject_passive",
+      "score": 0.9072625698324023
+    },
+    {
+      "task": "animate_subject_trans",
+      "score": 0.9219934994582882
+    },
+    {
+      "task": "determiner_noun_agreement_with_adjective_1",
+      "score": 0.9239013933547695
+    },
+    {
+      "task": "principle_A_domain_3",
+      "score": 0.924548352816153
+    },
+    {
+      "task": "passive_2",
+      "score": 0.9258028792912514
+    },
+    {
+      "task": "determiner_noun_agreement_1",
+      "score": 0.9343379978471474
+    },
+    {
+      "task": "sentential_negation_npi_licensor_present",
+      "score": 0.9967355821545157
+    },
+    {
+      "task": "only_npi_licensor_present",
+      "score": 1.0
+    },
+    {
+      "task": "principle_A_case_1",
+      "score": 1.0
+    },
+    {
+      "task": "principle_A_domain_1",
+      "score": 1.0
+    },
+    {
+      "task": "superlative_quantifiers_2",
+      "score": 1.0
+    }
+  ]
+}

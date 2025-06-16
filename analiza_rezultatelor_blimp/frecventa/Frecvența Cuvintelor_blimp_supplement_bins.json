@@ -1,0 +1,29 @@
+{
+  "0.00–0.20": [],
+  "0.20–0.40": [],
+  "0.40–0.60": [
+    {
+      "task": "supplement_turn_taking",
+      "score": 0.5
+    }
+  ],
+  "0.60–0.80": [
+    {
+      "task": "supplement_hypernym",
+      "score": 0.6532066508313539
+    },
+    {
+      "task": "supplement_qa_congruence_easy",
+      "score": 0.671875
+    },
+    {
+      "task": "supplement_qa_congruence_tricky",
+      "score": 0.703030303030303
+    },
+    {
+      "task": "supplement_subject_aux_inversion",
+      "score": 0.7796741660201707
+    }
+  ],
+  "0.80–1.00": []
+}
