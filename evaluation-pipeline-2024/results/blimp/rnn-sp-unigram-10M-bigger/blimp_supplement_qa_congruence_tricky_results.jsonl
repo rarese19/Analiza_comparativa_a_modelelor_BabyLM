@@ -1,0 +1,7592 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "row": 0,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "Who cleaned?\nDavid cleaned.",
+      "sentence_bad": "Who cleaned?\nThe patio cleaned."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who cleaned?\nDavid cleaned."
+      ],
+      [
+        "",
+        " Who cleaned?\nThe patio cleaned."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.02234649658203,
+          false
+        ]
+      ],
+      [
+        [
+          -79.5724105834961,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.02234649658203,
+        false
+      ],
+      [
+        -79.5724105834961,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "row": 0,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who cleaned?\nB: Sarah.",
+      "sentence_bad": "A: Who cleaned?\nB: The patio."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who cleaned?\nB: Sarah."
+      ],
+      [
+        "",
+        " A: Who cleaned?\nB: The patio."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.8865966796875,
+          false
+        ]
+      ],
+      [
+        [
+          -100.0870361328125,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.8865966796875,
+        false
+      ],
+      [
+        -100.0870361328125,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "row": 0,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who cleaned?\nB: Sarah cleaned.",
+      "sentence_bad": "A: Who cleaned?\nB: The tiles cleaned."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who cleaned?\nB: Sarah cleaned."
+      ],
+      [
+        "",
+        " A: Who cleaned?\nB: The tiles cleaned."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -105.21150970458984,
+          false
+        ]
+      ],
+      [
+        [
+          -103.77137756347656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -105.21150970458984,
+        false
+      ],
+      [
+        -103.77137756347656,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "row": 1,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who wrote?\nSarah: Sarah wrote.",
+      "sentence_bad": "David: Who wrote?\nSarah: A book wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who wrote?\nSarah: Sarah wrote."
+      ],
+      [
+        "",
+        " David: Who wrote?\nSarah: A book wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -96.31940460205078,
+          false
+        ]
+      ],
+      [
+        [
+          -100.957763671875,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -96.31940460205078,
+        false
+      ],
+      [
+        -100.957763671875,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "row": 1,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who wrote?\nB: Sarah.",
+      "sentence_bad": "A: Who wrote?\nB: An essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who wrote?\nB: Sarah."
+      ],
+      [
+        "",
+        " A: Who wrote?\nB: An essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -81.34905242919922,
+          false
+        ]
+      ],
+      [
+        [
+          -88.28214263916016,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -81.34905242919922,
+        false
+      ],
+      [
+        -88.28214263916016,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "row": 1,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who read?\nSarah: A doctor.",
+      "sentence_bad": "David: Who read?\nSarah: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who read?\nSarah: A doctor."
+      ],
+      [
+        "",
+        " David: Who read?\nSarah: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -90.56237030029297,
+          false
+        ]
+      ],
+      [
+        [
+          -90.04783630371094,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -90.56237030029297,
+        false
+      ],
+      [
+        -90.04783630371094,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "row": 1,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who wrote?\nSarah: David.",
+      "sentence_bad": "David: Who wrote?\nSarah: An essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who wrote?\nSarah: David."
+      ],
+      [
+        "",
+        " David: Who wrote?\nSarah: An essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -83.5499496459961,
+          false
+        ]
+      ],
+      [
+        [
+          -94.76191711425781,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -83.5499496459961,
+        false
+      ],
+      [
+        -94.76191711425781,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "row": 1,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who wrote?\nB: A teacher wrote.",
+      "sentence_bad": "A: Who wrote?\nB: An essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who wrote?\nB: A teacher wrote."
+      ],
+      [
+        "",
+        " A: Who wrote?\nB: An essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -93.25338745117188,
+          false
+        ]
+      ],
+      [
+        [
+          -95.94793701171875,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -93.25338745117188,
+        false
+      ],
+      [
+        -95.94793701171875,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "row": 1,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who read?\nB: A teacher.",
+      "sentence_bad": "A: Who read?\nB: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who read?\nB: A teacher."
+      ],
+      [
+        "",
+        " A: Who read?\nB: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -86.237548828125,
+          false
+        ]
+      ],
+      [
+        [
+          -84.15213012695312,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -86.237548828125,
+        false
+      ],
+      [
+        -84.15213012695312,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "row": 1,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "Who read?\nDavid read.",
+      "sentence_bad": "Who read?\nA book read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who read?\nDavid read."
+      ],
+      [
+        "",
+        " Who read?\nA book read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -61.05949020385742,
+          false
+        ]
+      ],
+      [
+        [
+          -58.80912399291992,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -61.05949020385742,
+        false
+      ],
+      [
+        -58.80912399291992,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 10,
+    "doc": {
+      "row": 1,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who read?\nB: A doctor.",
+      "sentence_bad": "A: Who read?\nB: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who read?\nB: A doctor."
+      ],
+      [
+        "",
+        " A: Who read?\nB: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -84.73014831542969,
+          false
+        ]
+      ],
+      [
+        [
+          -84.15213012695312,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -84.73014831542969,
+        false
+      ],
+      [
+        -84.15213012695312,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 11,
+    "doc": {
+      "row": 1,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who wrote?\nSarah: David wrote.",
+      "sentence_bad": "David: Who wrote?\nSarah: A letter wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who wrote?\nSarah: David wrote."
+      ],
+      [
+        "",
+        " David: Who wrote?\nSarah: A letter wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -95.48639678955078,
+          false
+        ]
+      ],
+      [
+        [
+          -103.17007446289062,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -95.48639678955078,
+        false
+      ],
+      [
+        -103.17007446289062,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 12,
+    "doc": {
+      "row": 1,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who read?\nB: A teacher read.",
+      "sentence_bad": "A: Who read?\nB: An essay read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who read?\nB: A teacher read."
+      ],
+      [
+        "",
+        " A: Who read?\nB: An essay read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -93.93304443359375,
+          false
+        ]
+      ],
+      [
+        [
+          -94.36473083496094,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -93.93304443359375,
+        false
+      ],
+      [
+        -94.36473083496094,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 13,
+    "doc": {
+      "row": 2,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "Who ate?\nA doctor.",
+      "sentence_bad": "Who ate?\nPasta."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who ate?\nA doctor."
+      ],
+      [
+        "",
+        " Who ate?\nPasta."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -59.3819694519043,
+          false
+        ]
+      ],
+      [
+        [
+          -67.67654418945312,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -59.3819694519043,
+        false
+      ],
+      [
+        -67.67654418945312,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 14,
+    "doc": {
+      "row": 2,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "Who ate?\nSarah ate.",
+      "sentence_bad": "Who ate?\nDinner ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who ate?\nSarah ate."
+      ],
+      [
+        "",
+        " Who ate?\nDinner ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -65.20105743408203,
+          false
+        ]
+      ],
+      [
+        [
+          -71.31556701660156,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -65.20105743408203,
+        false
+      ],
+      [
+        -71.31556701660156,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 15,
+    "doc": {
+      "row": 2,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "Who ate?\nA teacher ate.",
+      "sentence_bad": "Who ate?\nPasta ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who ate?\nA teacher ate."
+      ],
+      [
+        "",
+        " Who ate?\nPasta ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -71.66930389404297,
+          false
+        ]
+      ],
+      [
+        [
+          -80.71688079833984,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -71.66930389404297,
+        false
+      ],
+      [
+        -80.71688079833984,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 16,
+    "doc": {
+      "row": 2,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who cooked?\nB: David cooked.",
+      "sentence_bad": "A: Who cooked?\nB: Pasta cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who cooked?\nB: David cooked."
+      ],
+      [
+        "",
+        " A: Who cooked?\nB: Pasta cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -106.65979766845703,
+          false
+        ]
+      ],
+      [
+        [
+          -122.93138122558594,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -106.65979766845703,
+        false
+      ],
+      [
+        -122.93138122558594,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 17,
+    "doc": {
+      "row": 2,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who ate?\nSarah: Sarah.",
+      "sentence_bad": "David: Who ate?\nSarah: Lunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who ate?\nSarah: Sarah."
+      ],
+      [
+        "",
+        " David: Who ate?\nSarah: Lunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -90.63529968261719,
+          false
+        ]
+      ],
+      [
+        [
+          -101.77454376220703,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -90.63529968261719,
+        false
+      ],
+      [
+        -101.77454376220703,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 18,
+    "doc": {
+      "row": 2,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "A: Who cooked?\nB: Sarah cooked.",
+      "sentence_bad": "A: Who cooked?\nB: Pasta cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who cooked?\nB: Sarah cooked."
+      ],
+      [
+        "",
+        " A: Who cooked?\nB: Pasta cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -106.7394027709961,
+          false
+        ]
+      ],
+      [
+        [
+          -122.93138122558594,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -106.7394027709961,
+        false
+      ],
+      [
+        -122.93138122558594,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 19,
+    "doc": {
+      "row": 2,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who cooked?\nSarah: David.",
+      "sentence_bad": "David: Who cooked?\nSarah: Pasta."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who cooked?\nSarah: David."
+      ],
+      [
+        "",
+        " David: Who cooked?\nSarah: Pasta."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -92.03190612792969,
+          false
+        ]
+      ],
+      [
+        [
+          -106.06112670898438,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -92.03190612792969,
+        false
+      ],
+      [
+        -106.06112670898438,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 20,
+    "doc": {
+      "row": 2,
+      "fragment": "fragment",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "Who cooked?\nSarah.",
+      "sentence_bad": "Who cooked?\nA sandwich."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who cooked?\nSarah."
+      ],
+      [
+        "",
+        " Who cooked?\nA sandwich."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -60.7215690612793,
+          false
+        ]
+      ],
+      [
+        [
+          -61.549983978271484,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -60.7215690612793,
+        false
+      ],
+      [
+        -61.549983978271484,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 21,
+    "doc": {
+      "row": 2,
+      "fragment": "sentence",
+      "contrast": "animate vs. inanimate (tricky)",
+      "sentence_good": "David: Who ate?\nSarah: Sarah ate.",
+      "sentence_bad": "David: Who ate?\nSarah: Pasta ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who ate?\nSarah: Sarah ate."
+      ],
+      [
+        "",
+        " David: Who ate?\nSarah: Pasta ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -99.6240005493164,
+          false
+        ]
+      ],
+      [
+        [
+          -115.86320495605469,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -99.6240005493164,
+        false
+      ],
+      [
+        -115.86320495605469,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 22,
+    "doc": {
+      "row": 3,
+      "fragment": "sentence",
+      "contrast": "inanimate vs. animate (tricky)",
+      "sentence_good": "Who studies?\nSarah studies.",
+      "sentence_bad": "Who studies?\nScience studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who studies?\nSarah studies."
+      ],
+      [
+        "",
+        " Who studies?\nScience studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.75830841064453,
+          false
+        ]
+      ],
+      [
+        [
+          -68.42545318603516,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.75830841064453,
+        false
+      ],
+      [
+        -68.42545318603516,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 23,
+    "doc": {
+      "row": 3,
+      "fragment": "sentence",
+      "contrast": "inanimate vs. animate (tricky)",
+      "sentence_good": "Who studies?\nA doctor studies.",
+      "sentence_bad": "Who studies?\nHistory studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Who studies?\nA doctor studies."
+      ],
+      [
+        "",
+        " Who studies?\nHistory studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -74.5744857788086,
+          false
+        ]
+      ],
+      [
+        [
+          -73.48162078857422,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -74.5744857788086,
+        false
+      ],
+      [
+        -73.48162078857422,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 24,
+    "doc": {
+      "row": 3,
+      "fragment": "sentence",
+      "contrast": "inanimate vs. animate (tricky)",
+      "sentence_good": "David: Who studies?\nSarah: Sarah studies.",
+      "sentence_bad": "David: Who studies?\nSarah: History studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who studies?\nSarah: Sarah studies."
+      ],
+      [
+        "",
+        " David: Who studies?\nSarah: History studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -102.27914428710938,
+          false
+        ]
+      ],
+      [
+        [
+          -105.34908294677734,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -102.27914428710938,
+        false
+      ],
+      [
+        -105.34908294677734,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 25,
+    "doc": {
+      "row": 3,
+      "fragment": "fragment",
+      "contrast": "inanimate vs. animate (tricky)",
+      "sentence_good": "A: Who studies?\nB: David.",
+      "sentence_bad": "A: Who studies?\nB: Science."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Who studies?\nB: David."
+      ],
+      [
+        "",
+        " A: Who studies?\nB: Science."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -85.07537841796875,
+          false
+        ]
+      ],
+      [
+        [
+          -96.59888458251953,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -85.07537841796875,
+        false
+      ],
+      [
+        -96.59888458251953,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 26,
+    "doc": {
+      "row": 3,
+      "fragment": "sentence",
+      "contrast": "inanimate vs. animate (tricky)",
+      "sentence_good": "David: Who studies?\nSarah: David studies.",
+      "sentence_bad": "David: Who studies?\nSarah: Math studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Who studies?\nSarah: David studies."
+      ],
+      [
+        "",
+        " David: Who studies?\nSarah: Math studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -100.39075469970703,
+          false
+        ]
+      ],
+      [
+        [
+          -105.53492736816406,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -100.39075469970703,
+        false
+      ],
+      [
+        -105.53492736816406,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 27,
+    "doc": {
+      "row": 4,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where were you reading?\nIn the park read.",
+      "sentence_bad": "Where were you reading?\nA book read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where were you reading?\nIn the park read."
+      ],
+      [
+        "",
+        " Where were you reading?\nA book read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.9149169921875,
+          false
+        ]
+      ],
+      [
+        [
+          -61.7285041809082,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.9149169921875,
+        false
+      ],
+      [
+        -61.7285041809082,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 28,
+    "doc": {
+      "row": 4,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where were you writing?\nB: In the office.",
+      "sentence_bad": "A: Where were you writing?\nB: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where were you writing?\nB: In the office."
+      ],
+      [
+        "",
+        " A: Where were you writing?\nB: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.85376739501953,
+          false
+        ]
+      ],
+      [
+        [
+          -86.56055450439453,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.85376739501953,
+        false
+      ],
+      [
+        -86.56055450439453,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 29,
+    "doc": {
+      "row": 4,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where were you writing?\nSarah: In the park wrote.",
+      "sentence_bad": "David: Where were you writing?\nSarah: A book wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where were you writing?\nSarah: In the park wrote."
+      ],
+      [
+        "",
+        " David: Where were you writing?\nSarah: A book wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.81198120117188,
+          false
+        ]
+      ],
+      [
+        [
+          -105.41707611083984,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.81198120117188,
+        false
+      ],
+      [
+        -105.41707611083984,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 30,
+    "doc": {
+      "row": 4,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where were you writing?\nSarah: In the park.",
+      "sentence_bad": "David: Where were you writing?\nSarah: An essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where were you writing?\nSarah: In the park."
+      ],
+      [
+        "",
+        " David: Where were you writing?\nSarah: An essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -98.38963317871094,
+          false
+        ]
+      ],
+      [
+        [
+          -100.21395111083984,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -98.38963317871094,
+        false
+      ],
+      [
+        -100.21395111083984,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 31,
+    "doc": {
+      "row": 4,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where were you reading?\nB: By the lake.",
+      "sentence_bad": "A: Where were you reading?\nB: An essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where were you reading?\nB: By the lake."
+      ],
+      [
+        "",
+        " A: Where were you reading?\nB: An essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -93.23385620117188,
+          false
+        ]
+      ],
+      [
+        [
+          -92.6353530883789,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -93.23385620117188,
+        false
+      ],
+      [
+        -92.6353530883789,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 32,
+    "doc": {
+      "row": 4,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where were you writing?\nSarah: At work.",
+      "sentence_bad": "David: Where were you writing?\nSarah: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where were you writing?\nSarah: At work."
+      ],
+      [
+        "",
+        " David: Where were you writing?\nSarah: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -100.18914794921875,
+          false
+        ]
+      ],
+      [
+        [
+          -94.35328674316406,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -100.18914794921875,
+        false
+      ],
+      [
+        -94.35328674316406,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 33,
+    "doc": {
+      "row": 4,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where were you reading?\nB: At work read.",
+      "sentence_bad": "A: Where were you reading?\nB: A letter read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where were you reading?\nB: At work read."
+      ],
+      [
+        "",
+        " A: Where were you reading?\nB: A letter read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -98.33770751953125,
+          false
+        ]
+      ],
+      [
+        [
+          -89.96311950683594,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -98.33770751953125,
+        false
+      ],
+      [
+        -89.96311950683594,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 34,
+    "doc": {
+      "row": 4,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where were you writing?\nB: In the office wrote.",
+      "sentence_bad": "A: Where were you writing?\nB: A letter wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where were you writing?\nB: In the office wrote."
+      ],
+      [
+        "",
+        " A: Where were you writing?\nB: A letter wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -101.76338195800781,
+          false
+        ]
+      ],
+      [
+        [
+          -95.87645721435547,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -101.76338195800781,
+        false
+      ],
+      [
+        -95.87645721435547,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 35,
+    "doc": {
+      "row": 4,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where were you reading?\nSarah: At work.",
+      "sentence_bad": "David: Where were you reading?\nSarah: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where were you reading?\nSarah: At work."
+      ],
+      [
+        "",
+        " David: Where were you reading?\nSarah: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -98.34125518798828,
+          false
+        ]
+      ],
+      [
+        [
+          -95.85112762451172,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -98.34125518798828,
+        false
+      ],
+      [
+        -95.85112762451172,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 36,
+    "doc": {
+      "row": 4,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where were you writing?\nSarah: In the park wrote.",
+      "sentence_bad": "David: Where were you writing?\nSarah: An essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where were you writing?\nSarah: In the park wrote."
+      ],
+      [
+        "",
+        " David: Where were you writing?\nSarah: An essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.81198120117188,
+          false
+        ]
+      ],
+      [
+        [
+          -110.6288833618164,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.81198120117188,
+        false
+      ],
+      [
+        -110.6288833618164,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 37,
+    "doc": {
+      "row": 5,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where did you eat?\nIn the cafeteria ate.",
+      "sentence_bad": "Where did you eat?\nPasta ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where did you eat?\nIn the cafeteria ate."
+      ],
+      [
+        "",
+        " Where did you eat?\nPasta ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -80.22775268554688,
+          false
+        ]
+      ],
+      [
+        [
+          -80.44270324707031,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -80.22775268554688,
+        false
+      ],
+      [
+        -80.44270324707031,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 38,
+    "doc": {
+      "row": 5,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where did you eat?\nSarah: In the cafeteria.",
+      "sentence_bad": "David: Where did you eat?\nSarah: Dinner."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where did you eat?\nSarah: In the cafeteria."
+      ],
+      [
+        "",
+        " David: Where did you eat?\nSarah: Dinner."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -103.34275817871094,
+          false
+        ]
+      ],
+      [
+        [
+          -88.31050872802734,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -103.34275817871094,
+        false
+      ],
+      [
+        -88.31050872802734,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 39,
+    "doc": {
+      "row": 5,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where did you cook?\nSarah: At home.",
+      "sentence_bad": "David: Where did you cook?\nSarah: Lunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where did you cook?\nSarah: At home."
+      ],
+      [
+        "",
+        " David: Where did you cook?\nSarah: Lunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -94.95990753173828,
+          false
+        ]
+      ],
+      [
+        [
+          -96.3480224609375,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -94.95990753173828,
+        false
+      ],
+      [
+        -96.3480224609375,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 40,
+    "doc": {
+      "row": 5,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where did you cook?\nIn the kitchen cooked.",
+      "sentence_bad": "Where did you cook?\nA sandwich cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where did you cook?\nIn the kitchen cooked."
+      ],
+      [
+        "",
+        " Where did you cook?\nA sandwich cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -73.11767578125,
+          false
+        ]
+      ],
+      [
+        [
+          -68.62532043457031,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -73.11767578125,
+        false
+      ],
+      [
+        -68.62532043457031,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 41,
+    "doc": {
+      "row": 5,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where did you cook?\nAt home cooked.",
+      "sentence_bad": "Where did you cook?\nLunch cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where did you cook?\nAt home cooked."
+      ],
+      [
+        "",
+        " Where did you cook?\nLunch cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -67.22050476074219,
+          false
+        ]
+      ],
+      [
+        [
+          -76.94084167480469,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -67.22050476074219,
+        false
+      ],
+      [
+        -76.94084167480469,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 42,
+    "doc": {
+      "row": 5,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where did you cook?\nB: At home cooked.",
+      "sentence_bad": "A: Where did you cook?\nB: A sandwich cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where did you cook?\nB: At home cooked."
+      ],
+      [
+        "",
+        " A: Where did you cook?\nB: A sandwich cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -92.8700180053711,
+          false
+        ]
+      ],
+      [
+        [
+          -100.33692932128906,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -92.8700180053711,
+        false
+      ],
+      [
+        -100.33692932128906,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 43,
+    "doc": {
+      "row": 5,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where did you cook?\nB: At home.",
+      "sentence_bad": "A: Where did you cook?\nB: Pasta."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where did you cook?\nB: At home."
+      ],
+      [
+        "",
+        " A: Where did you cook?\nB: Pasta."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -87.49761962890625,
+          false
+        ]
+      ],
+      [
+        [
+          -93.65270233154297,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -87.49761962890625,
+        false
+      ],
+      [
+        -93.65270233154297,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 44,
+    "doc": {
+      "row": 5,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where did you eat?\nIn the kitchen.",
+      "sentence_bad": "Where did you eat?\nDinner."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where did you eat?\nIn the kitchen."
+      ],
+      [
+        "",
+        " Where did you eat?\nDinner."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -57.55134963989258,
+          false
+        ]
+      ],
+      [
+        [
+          -55.8871955871582,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -57.55134963989258,
+        false
+      ],
+      [
+        -55.8871955871582,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 45,
+    "doc": {
+      "row": 5,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where did you eat?\nIn the cafeteria.",
+      "sentence_bad": "Where did you eat?\nLunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where did you eat?\nIn the cafeteria."
+      ],
+      [
+        "",
+        " Where did you eat?\nLunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -67.1142578125,
+          false
+        ]
+      ],
+      [
+        [
+          -61.2712516784668,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -67.1142578125,
+        false
+      ],
+      [
+        -61.2712516784668,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 46,
+    "doc": {
+      "row": 6,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where do you teach?\nSarah: At the kindergarten teaches.",
+      "sentence_bad": "David: Where do you teach?\nSarah: Math teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where do you teach?\nSarah: At the kindergarten teaches."
+      ],
+      [
+        "",
+        " David: Where do you teach?\nSarah: Math teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -125.70378875732422,
+          false
+        ]
+      ],
+      [
+        [
+          -110.85417175292969,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -125.70378875732422,
+        false
+      ],
+      [
+        -110.85417175292969,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 47,
+    "doc": {
+      "row": 6,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where do you teach?\nB: At the college.",
+      "sentence_bad": "A: Where do you teach?\nB: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where do you teach?\nB: At the college."
+      ],
+      [
+        "",
+        " A: Where do you teach?\nB: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -94.4044418334961,
+          false
+        ]
+      ],
+      [
+        [
+          -80.35621643066406,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -94.4044418334961,
+        false
+      ],
+      [
+        -80.35621643066406,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 48,
+    "doc": {
+      "row": 6,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where do you teach?\nSarah: At the university.",
+      "sentence_bad": "David: Where do you teach?\nSarah: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where do you teach?\nSarah: At the university."
+      ],
+      [
+        "",
+        " David: Where do you teach?\nSarah: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -102.38392639160156,
+          false
+        ]
+      ],
+      [
+        [
+          -90.11519622802734,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -102.38392639160156,
+        false
+      ],
+      [
+        -90.11519622802734,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 49,
+    "doc": {
+      "row": 6,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "Where do you study?\nAt the kindergarten studies.",
+      "sentence_bad": "Where do you study?\nScience studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Where do you study?\nAt the kindergarten studies."
+      ],
+      [
+        "",
+        " Where do you study?\nScience studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -83.4296875,
+          false
+        ]
+      ],
+      [
+        [
+          -66.73258972167969,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -83.4296875,
+        false
+      ],
+      [
+        -66.73258972167969,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 50,
+    "doc": {
+      "row": 6,
+      "fragment": "fragment",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where do you study?\nSarah: At the university.",
+      "sentence_bad": "David: Where do you study?\nSarah: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where do you study?\nSarah: At the university."
+      ],
+      [
+        "",
+        " David: Where do you study?\nSarah: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -101.24198913574219,
+          false
+        ]
+      ],
+      [
+        [
+          -88.9509506225586,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -101.24198913574219,
+        false
+      ],
+      [
+        -88.9509506225586,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 51,
+    "doc": {
+      "row": 6,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: Where do you study?\nSarah: At the college studies.",
+      "sentence_bad": "David: Where do you study?\nSarah: Math studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Where do you study?\nSarah: At the college studies."
+      ],
+      [
+        "",
+        " David: Where do you study?\nSarah: Math studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -113.08741760253906,
+          false
+        ]
+      ],
+      [
+        [
+          -104.7619400024414,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -113.08741760253906,
+        false
+      ],
+      [
+        -104.7619400024414,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 52,
+    "doc": {
+      "row": 6,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: Where do you teach?\nB: At the college teaches.",
+      "sentence_bad": "A: Where do you teach?\nB: Science teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Where do you teach?\nB: At the college teaches."
+      ],
+      [
+        "",
+        " A: Where do you teach?\nB: Science teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.48066711425781,
+          false
+        ]
+      ],
+      [
+        [
+          -105.58531188964844,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.48066711425781,
+        false
+      ],
+      [
+        -105.58531188964844,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 53,
+    "doc": {
+      "row": 7,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "David: When did you clean?\nSarah: I cleaned yesterday.",
+      "sentence_bad": "David: When did you clean?\nSarah: I cleaned the tiles."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When did you clean?\nSarah: I cleaned yesterday."
+      ],
+      [
+        "",
+        " David: When did you clean?\nSarah: I cleaned the tiles."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -104.20011901855469,
+          false
+        ]
+      ],
+      [
+        [
+          -109.28924560546875,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -104.20011901855469,
+        false
+      ],
+      [
+        -109.28924560546875,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 54,
+    "doc": {
+      "row": 7,
+      "fragment": "sentence",
+      "contrast": "loc vs. NP (tricky)",
+      "sentence_good": "A: When did you clean?\nB: I cleaned yesterday.",
+      "sentence_bad": "A: When did you clean?\nB: I cleaned the patio."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: When did you clean?\nB: I cleaned yesterday."
+      ],
+      [
+        "",
+        " A: When did you clean?\nB: I cleaned the patio."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -97.57748413085938,
+          false
+        ]
+      ],
+      [
+        [
+          -106.20513916015625,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -97.57748413085938,
+        false
+      ],
+      [
+        -106.20513916015625,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 55,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you writing?\nLast week wrote.",
+      "sentence_bad": "When were you writing?\nA letter wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you writing?\nLast week wrote."
+      ],
+      [
+        "",
+        " When were you writing?\nA letter wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.5562973022461,
+          false
+        ]
+      ],
+      [
+        [
+          -68.18900299072266,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.5562973022461,
+        false
+      ],
+      [
+        -68.18900299072266,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 56,
+    "doc": {
+      "row": 8,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When were you reading?\nSarah: This morning.",
+      "sentence_bad": "David: When were you reading?\nSarah: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When were you reading?\nSarah: This morning."
+      ],
+      [
+        "",
+        " David: When were you reading?\nSarah: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -99.64971923828125,
+          false
+        ]
+      ],
+      [
+        [
+          -99.31462097167969,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -99.64971923828125,
+        false
+      ],
+      [
+        -99.31462097167969,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 57,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you writing?\nThis morning wrote.",
+      "sentence_bad": "When were you writing?\nA book wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you writing?\nThis morning wrote."
+      ],
+      [
+        "",
+        " When were you writing?\nA book wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -74.14443969726562,
+          false
+        ]
+      ],
+      [
+        [
+          -68.28202819824219,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -74.14443969726562,
+        false
+      ],
+      [
+        -68.28202819824219,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 58,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When were you reading?\nSarah: Yesterday read.",
+      "sentence_bad": "David: When were you reading?\nSarah: A book read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When were you reading?\nSarah: Yesterday read."
+      ],
+      [
+        "",
+        " David: When were you reading?\nSarah: A book read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -102.21247863769531,
+          false
+        ]
+      ],
+      [
+        [
+          -101.73695373535156,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -102.21247863769531,
+        false
+      ],
+      [
+        -101.73695373535156,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 59,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you reading?\nSeveral months ago read.",
+      "sentence_bad": "When were you reading?\nA book read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you reading?\nSeveral months ago read."
+      ],
+      [
+        "",
+        " When were you reading?\nA book read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -73.78239440917969,
+          false
+        ]
+      ],
+      [
+        [
+          -63.20838928222656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -73.78239440917969,
+        false
+      ],
+      [
+        -63.20838928222656,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 60,
+    "doc": {
+      "row": 8,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you reading?\nSeveral months ago.",
+      "sentence_bad": "When were you reading?\nA letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you reading?\nSeveral months ago."
+      ],
+      [
+        "",
+        " When were you reading?\nA letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -64.65546417236328,
+          false
+        ]
+      ],
+      [
+        [
+          -60.080196380615234,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -64.65546417236328,
+        false
+      ],
+      [
+        -60.080196380615234,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 61,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you writing?\nSeveral months ago wrote.",
+      "sentence_bad": "When were you writing?\nA letter wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you writing?\nSeveral months ago wrote."
+      ],
+      [
+        "",
+        " When were you writing?\nA letter wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -74.79511260986328,
+          false
+        ]
+      ],
+      [
+        [
+          -68.18900299072266,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -74.79511260986328,
+        false
+      ],
+      [
+        -68.18900299072266,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 62,
+    "doc": {
+      "row": 8,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When were you reading?\nSarah: Several months ago.",
+      "sentence_bad": "David: When were you reading?\nSarah: An essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When were you reading?\nSarah: Several months ago."
+      ],
+      [
+        "",
+        " David: When were you reading?\nSarah: An essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -100.51412963867188,
+          false
+        ]
+      ],
+      [
+        [
+          -103.00648498535156,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -100.51412963867188,
+        false
+      ],
+      [
+        -103.00648498535156,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 63,
+    "doc": {
+      "row": 8,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When were you reading?\nSarah: Last week.",
+      "sentence_bad": "David: When were you reading?\nSarah: An essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When were you reading?\nSarah: Last week."
+      ],
+      [
+        "",
+        " David: When were you reading?\nSarah: An essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -95.85418701171875,
+          false
+        ]
+      ],
+      [
+        [
+          -103.00648498535156,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -95.85418701171875,
+        false
+      ],
+      [
+        -103.00648498535156,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 64,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When were you writing?\nSarah: An hour ago wrote.",
+      "sentence_bad": "David: When were you writing?\nSarah: An essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When were you writing?\nSarah: An hour ago wrote."
+      ],
+      [
+        "",
+        " David: When were you writing?\nSarah: An essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.46614074707031,
+          false
+        ]
+      ],
+      [
+        [
+          -113.22160339355469,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.46614074707031,
+        false
+      ],
+      [
+        -113.22160339355469,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 65,
+    "doc": {
+      "row": 8,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you writing?\nYesterday wrote.",
+      "sentence_bad": "When were you writing?\nAn essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you writing?\nYesterday wrote."
+      ],
+      [
+        "",
+        " When were you writing?\nAn essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -67.5405502319336,
+          false
+        ]
+      ],
+      [
+        [
+          -72.85334014892578,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -67.5405502319336,
+        false
+      ],
+      [
+        -72.85334014892578,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 66,
+    "doc": {
+      "row": 8,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When were you reading?\nAn hour ago.",
+      "sentence_bad": "When were you reading?\nA book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When were you reading?\nAn hour ago."
+      ],
+      [
+        "",
+        " When were you reading?\nA book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -64.0771713256836,
+          false
+        ]
+      ],
+      [
+        [
+          -60.20928192138672,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -64.0771713256836,
+        false
+      ],
+      [
+        -60.20928192138672,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 67,
+    "doc": {
+      "row": 9,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "A: When did you cook?\nB: Yesterday.",
+      "sentence_bad": "A: When did you cook?\nB: A sandwich."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: When did you cook?\nB: Yesterday."
+      ],
+      [
+        "",
+        " A: When did you cook?\nB: A sandwich."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -91.31607055664062,
+          false
+        ]
+      ],
+      [
+        [
+          -90.3714599609375,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -91.31607055664062,
+        false
+      ],
+      [
+        -90.3714599609375,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 68,
+    "doc": {
+      "row": 9,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When did you eat?\nSarah: Several minutes ago.",
+      "sentence_bad": "David: When did you eat?\nSarah: A sandwich."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When did you eat?\nSarah: Several minutes ago."
+      ],
+      [
+        "",
+        " David: When did you eat?\nSarah: A sandwich."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -100.86117553710938,
+          false
+        ]
+      ],
+      [
+        [
+          -97.34181213378906,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -100.86117553710938,
+        false
+      ],
+      [
+        -97.34181213378906,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 69,
+    "doc": {
+      "row": 9,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When did you eat?\nYesterday ate.",
+      "sentence_bad": "When did you eat?\nDinner ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When did you eat?\nYesterday ate."
+      ],
+      [
+        "",
+        " When did you eat?\nDinner ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.01278686523438,
+          false
+        ]
+      ],
+      [
+        [
+          -71.37420654296875,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.01278686523438,
+        false
+      ],
+      [
+        -71.37420654296875,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 70,
+    "doc": {
+      "row": 9,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When did you eat?\nThis morning.",
+      "sentence_bad": "When did you eat?\nDinner."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When did you eat?\nThis morning."
+      ],
+      [
+        "",
+        " When did you eat?\nDinner."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -62.55067443847656,
+          false
+        ]
+      ],
+      [
+        [
+          -57.680145263671875,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -62.55067443847656,
+        false
+      ],
+      [
+        -57.680145263671875,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 71,
+    "doc": {
+      "row": 9,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When did you eat?\nSeveral minutes ago.",
+      "sentence_bad": "When did you eat?\nLunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When did you eat?\nSeveral minutes ago."
+      ],
+      [
+        "",
+        " When did you eat?\nLunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -65.58818054199219,
+          false
+        ]
+      ],
+      [
+        [
+          -61.99559783935547,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -65.58818054199219,
+        false
+      ],
+      [
+        -61.99559783935547,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 72,
+    "doc": {
+      "row": 9,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When did you eat?\nSeveral minutes ago ate.",
+      "sentence_bad": "When did you eat?\nLunch ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When did you eat?\nSeveral minutes ago ate."
+      ],
+      [
+        "",
+        " When did you eat?\nLunch ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -77.52159118652344,
+          false
+        ]
+      ],
+      [
+        [
+          -76.03299713134766,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -77.52159118652344,
+        false
+      ],
+      [
+        -76.03299713134766,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 73,
+    "doc": {
+      "row": 9,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "A: When did you cook?\nB: An hour ago.",
+      "sentence_bad": "A: When did you cook?\nB: Dinner."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: When did you cook?\nB: An hour ago."
+      ],
+      [
+        "",
+        " A: When did you cook?\nB: Dinner."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -93.21734619140625,
+          false
+        ]
+      ],
+      [
+        [
+          -88.40849304199219,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -93.21734619140625,
+        false
+      ],
+      [
+        -88.40849304199219,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 74,
+    "doc": {
+      "row": 9,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When did you cook?\nThis morning.",
+      "sentence_bad": "When did you cook?\nA sandwich."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When did you cook?\nThis morning."
+      ],
+      [
+        "",
+        " When did you cook?\nA sandwich."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -62.24395751953125,
+          false
+        ]
+      ],
+      [
+        [
+          -60.35171890258789,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -62.24395751953125,
+        false
+      ],
+      [
+        -60.35171890258789,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 75,
+    "doc": {
+      "row": 9,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "A: When did you eat?\nB: Several minutes ago ate.",
+      "sentence_bad": "A: When did you eat?\nB: Dinner ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: When did you eat?\nB: Several minutes ago ate."
+      ],
+      [
+        "",
+        " A: When did you eat?\nB: Dinner ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -110.62692260742188,
+          false
+        ]
+      ],
+      [
+        [
+          -102.1469497680664,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -110.62692260742188,
+        false
+      ],
+      [
+        -102.1469497680664,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 76,
+    "doc": {
+      "row": 10,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When do you teach?\nIn the afternoon.",
+      "sentence_bad": "When do you teach?\nMath."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When do you teach?\nIn the afternoon."
+      ],
+      [
+        "",
+        " When do you teach?\nMath."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -64.96635437011719,
+          false
+        ]
+      ],
+      [
+        [
+          -65.19287109375,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -64.96635437011719,
+        false
+      ],
+      [
+        -65.19287109375,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 77,
+    "doc": {
+      "row": 10,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When do you study?\nEvery tuesday studies.",
+      "sentence_bad": "When do you study?\nMath studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When do you study?\nEvery tuesday studies."
+      ],
+      [
+        "",
+        " When do you study?\nMath studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -94.57328796386719,
+          false
+        ]
+      ],
+      [
+        [
+          -74.30684661865234,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -94.57328796386719,
+        false
+      ],
+      [
+        -74.30684661865234,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 78,
+    "doc": {
+      "row": 10,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When do you teach?\nIn the afternoon teaches.",
+      "sentence_bad": "When do you teach?\nMath teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When do you teach?\nIn the afternoon teaches."
+      ],
+      [
+        "",
+        " When do you teach?\nMath teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -87.45838928222656,
+          false
+        ]
+      ],
+      [
+        [
+          -78.07191467285156,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -87.45838928222656,
+        false
+      ],
+      [
+        -78.07191467285156,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 79,
+    "doc": {
+      "row": 10,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When do you study?\nEvery tuesday.",
+      "sentence_bad": "When do you study?\nMath."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When do you study?\nEvery tuesday."
+      ],
+      [
+        "",
+        " When do you study?\nMath."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -80.0013656616211,
+          false
+        ]
+      ],
+      [
+        [
+          -63.904502868652344,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -80.0013656616211,
+        false
+      ],
+      [
+        -63.904502868652344,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 80,
+    "doc": {
+      "row": 10,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When do you study?\nSarah: Every tuesday.",
+      "sentence_bad": "David: When do you study?\nSarah: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When do you study?\nSarah: Every tuesday."
+      ],
+      [
+        "",
+        " David: When do you study?\nSarah: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -120.85006713867188,
+          false
+        ]
+      ],
+      [
+        [
+          -95.23117065429688,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -120.85006713867188,
+        false
+      ],
+      [
+        -95.23117065429688,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 81,
+    "doc": {
+      "row": 10,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "A: When do you teach?\nB: In the afternoon teaches.",
+      "sentence_bad": "A: When do you teach?\nB: History teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: When do you teach?\nB: In the afternoon teaches."
+      ],
+      [
+        "",
+        " A: When do you teach?\nB: History teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -113.5724868774414,
+          false
+        ]
+      ],
+      [
+        [
+          -110.0964126586914,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -113.5724868774414,
+        false
+      ],
+      [
+        -110.0964126586914,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 82,
+    "doc": {
+      "row": 10,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When do you study?\nSarah: In the afternoon studies.",
+      "sentence_bad": "David: When do you study?\nSarah: Math studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When do you study?\nSarah: In the afternoon studies."
+      ],
+      [
+        "",
+        " David: When do you study?\nSarah: Math studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -115.91800689697266,
+          false
+        ]
+      ],
+      [
+        [
+          -111.94064331054688,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -115.91800689697266,
+        false
+      ],
+      [
+        -111.94064331054688,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 83,
+    "doc": {
+      "row": 10,
+      "fragment": "fragment",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "When do you study?\nEvery tuesday.",
+      "sentence_bad": "When do you study?\nScience."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " When do you study?\nEvery tuesday."
+      ],
+      [
+        "",
+        " When do you study?\nScience."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -80.0013656616211,
+          false
+        ]
+      ],
+      [
+        [
+          -66.7649154663086,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -80.0013656616211,
+        false
+      ],
+      [
+        -66.7649154663086,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 84,
+    "doc": {
+      "row": 10,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When do you study?\nSarah: Every tuesday studies.",
+      "sentence_bad": "David: When do you study?\nSarah: Science studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When do you study?\nSarah: Every tuesday studies."
+      ],
+      [
+        "",
+        " David: When do you study?\nSarah: Science studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -134.8900604248047,
+          false
+        ]
+      ],
+      [
+        [
+          -109.14859008789062,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -134.8900604248047,
+        false
+      ],
+      [
+        -109.14859008789062,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 85,
+    "doc": {
+      "row": 10,
+      "fragment": "sentence",
+      "contrast": "temp vs. NP (tricky)",
+      "sentence_good": "David: When do you teach?\nSarah: In the afternoon teaches.",
+      "sentence_bad": "David: When do you teach?\nSarah: Science teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: When do you teach?\nSarah: In the afternoon teaches."
+      ],
+      [
+        "",
+        " David: When do you teach?\nSarah: Science teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -124.92024230957031,
+          false
+        ]
+      ],
+      [
+        [
+          -113.30471801757812,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -124.92024230957031,
+        false
+      ],
+      [
+        -113.30471801757812,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 86,
+    "doc": {
+      "row": 11,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you clean?\nSarah: I cleaned for fun.",
+      "sentence_bad": "David: Why did you clean?\nSarah: I cleaned the floor."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you clean?\nSarah: I cleaned for fun."
+      ],
+      [
+        "",
+        " David: Why did you clean?\nSarah: I cleaned the floor."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -109.82298278808594,
+          false
+        ]
+      ],
+      [
+        [
+          -99.82821655273438,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -109.82298278808594,
+        false
+      ],
+      [
+        -99.82821655273438,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 87,
+    "doc": {
+      "row": 11,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why did you clean?\nI cleaned it was dirty.",
+      "sentence_bad": "Why did you clean?\nI cleaned the patio."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why did you clean?\nI cleaned it was dirty."
+      ],
+      [
+        "",
+        " Why did you clean?\nI cleaned the patio."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -72.96514892578125,
+          false
+        ]
+      ],
+      [
+        [
+          -74.98876953125,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -72.96514892578125,
+        false
+      ],
+      [
+        -74.98876953125,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 88,
+    "doc": {
+      "row": 11,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you clean?\nSarah: Because i wanted to.",
+      "sentence_bad": "David: Why did you clean?\nSarah: The rug."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you clean?\nSarah: Because i wanted to."
+      ],
+      [
+        "",
+        " David: Why did you clean?\nSarah: The rug."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -99.77725982666016,
+          false
+        ]
+      ],
+      [
+        [
+          -99.28280639648438,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -99.77725982666016,
+        false
+      ],
+      [
+        -99.28280639648438,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 89,
+    "doc": {
+      "row": 12,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why were you reading?\nSarah: For work.",
+      "sentence_bad": "David: Why were you reading?\nSarah: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why were you reading?\nSarah: For work."
+      ],
+      [
+        "",
+        " David: Why were you reading?\nSarah: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -99.07707214355469,
+          false
+        ]
+      ],
+      [
+        [
+          -93.88175964355469,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -99.07707214355469,
+        false
+      ],
+      [
+        -93.88175964355469,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 90,
+    "doc": {
+      "row": 12,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why were you reading?\nB: Because i had to.",
+      "sentence_bad": "A: Why were you reading?\nB: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why were you reading?\nB: Because i had to."
+      ],
+      [
+        "",
+        " A: Why were you reading?\nB: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -96.30425262451172,
+          false
+        ]
+      ],
+      [
+        [
+          -85.8035659790039,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -96.30425262451172,
+        false
+      ],
+      [
+        -85.8035659790039,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 91,
+    "doc": {
+      "row": 12,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why were you reading?\nBecause i wanted to read.",
+      "sentence_bad": "Why were you reading?\nA letter read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why were you reading?\nBecause i wanted to read."
+      ],
+      [
+        "",
+        " Why were you reading?\nA letter read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -65.6099853515625,
+          false
+        ]
+      ],
+      [
+        [
+          -60.94059753417969,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -65.6099853515625,
+        false
+      ],
+      [
+        -60.94059753417969,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 92,
+    "doc": {
+      "row": 12,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why were you reading?\nSarah: Because i wanted to.",
+      "sentence_bad": "David: Why were you reading?\nSarah: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why were you reading?\nSarah: Because i wanted to."
+      ],
+      [
+        "",
+        " David: Why were you reading?\nSarah: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -99.36277770996094,
+          false
+        ]
+      ],
+      [
+        [
+          -93.88175964355469,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -99.36277770996094,
+        false
+      ],
+      [
+        -93.88175964355469,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 93,
+    "doc": {
+      "row": 12,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why were you reading?\nB: For work read.",
+      "sentence_bad": "A: Why were you reading?\nB: A book read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why were you reading?\nB: For work read."
+      ],
+      [
+        "",
+        " A: Why were you reading?\nB: A book read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -101.0547866821289,
+          false
+        ]
+      ],
+      [
+        [
+          -92.6361083984375,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -101.0547866821289,
+        false
+      ],
+      [
+        -92.6361083984375,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 94,
+    "doc": {
+      "row": 12,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why were you writing?\nSarah: For work wrote.",
+      "sentence_bad": "David: Why were you writing?\nSarah: A book wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why were you writing?\nSarah: For work wrote."
+      ],
+      [
+        "",
+        " David: Why were you writing?\nSarah: A book wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -113.66099548339844,
+          false
+        ]
+      ],
+      [
+        [
+          -105.16248321533203,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -113.66099548339844,
+        false
+      ],
+      [
+        -105.16248321533203,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 95,
+    "doc": {
+      "row": 12,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why were you reading?\nB: To pass the time read.",
+      "sentence_bad": "A: Why were you reading?\nB: A letter read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why were you reading?\nB: To pass the time read."
+      ],
+      [
+        "",
+        " A: Why were you reading?\nB: A letter read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -106.90348815917969,
+          false
+        ]
+      ],
+      [
+        [
+          -91.77290344238281,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -106.90348815917969,
+        false
+      ],
+      [
+        -91.77290344238281,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 96,
+    "doc": {
+      "row": 12,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why were you writing?\nSarah: Just because.",
+      "sentence_bad": "David: Why were you writing?\nSarah: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why were you writing?\nSarah: Just because."
+      ],
+      [
+        "",
+        " David: Why were you writing?\nSarah: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -98.08628845214844,
+          false
+        ]
+      ],
+      [
+        [
+          -94.89979553222656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -98.08628845214844,
+        false
+      ],
+      [
+        -94.89979553222656,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 97,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you cook?\nSarah: Because i had to cooked.",
+      "sentence_bad": "David: Why did you cook?\nSarah: Dinner cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you cook?\nSarah: Because i had to cooked."
+      ],
+      [
+        "",
+        " David: Why did you cook?\nSarah: Dinner cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -116.47437286376953,
+          false
+        ]
+      ],
+      [
+        [
+          -99.97631072998047,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -116.47437286376953,
+        false
+      ],
+      [
+        -99.97631072998047,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 98,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you eat?\nSarah: Because i had to ate.",
+      "sentence_bad": "David: Why did you eat?\nSarah: Lunch ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you eat?\nSarah: Because i had to ate."
+      ],
+      [
+        "",
+        " David: Why did you eat?\nSarah: Lunch ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -110.1410140991211,
+          false
+        ]
+      ],
+      [
+        [
+          -112.11518096923828,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -110.1410140991211,
+        false
+      ],
+      [
+        -112.11518096923828,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 99,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why did you eat?\nB: Just because ate.",
+      "sentence_bad": "A: Why did you eat?\nB: Pasta ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why did you eat?\nB: Just because ate."
+      ],
+      [
+        "",
+        " A: Why did you eat?\nB: Pasta ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -107.80131530761719,
+          false
+        ]
+      ],
+      [
+        [
+          -106.37950134277344,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -107.80131530761719,
+        false
+      ],
+      [
+        -106.37950134277344,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 100,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you eat?\nSarah: I was hungry ate.",
+      "sentence_bad": "David: Why did you eat?\nSarah: Lunch ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you eat?\nSarah: I was hungry ate."
+      ],
+      [
+        "",
+        " David: Why did you eat?\nSarah: Lunch ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -106.54020690917969,
+          false
+        ]
+      ],
+      [
+        [
+          -112.11518096923828,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -106.54020690917969,
+        false
+      ],
+      [
+        -112.11518096923828,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 101,
+    "doc": {
+      "row": 13,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you cook?\nSarah: Just because.",
+      "sentence_bad": "David: Why did you cook?\nSarah: A sandwich."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you cook?\nSarah: Just because."
+      ],
+      [
+        "",
+        " David: Why did you cook?\nSarah: A sandwich."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -96.68521881103516,
+          false
+        ]
+      ],
+      [
+        [
+          -93.97001647949219,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -96.68521881103516,
+        false
+      ],
+      [
+        -93.97001647949219,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 102,
+    "doc": {
+      "row": 13,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why did you eat?\nI skipped lunch.",
+      "sentence_bad": "Why did you eat?\nDinner."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why did you eat?\nI skipped lunch."
+      ],
+      [
+        "",
+        " Why did you eat?\nDinner."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.39006042480469,
+          false
+        ]
+      ],
+      [
+        [
+          -55.59442901611328,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.39006042480469,
+        false
+      ],
+      [
+        -55.59442901611328,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 103,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why did you cook?\nB: I was bored cooked.",
+      "sentence_bad": "A: Why did you cook?\nB: Lunch cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why did you cook?\nB: I was bored cooked."
+      ],
+      [
+        "",
+        " A: Why did you cook?\nB: Lunch cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -108.11457824707031,
+          false
+        ]
+      ],
+      [
+        [
+          -113.22396850585938,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -108.11457824707031,
+        false
+      ],
+      [
+        -113.22396850585938,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 104,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why did you cook?\nSarah: I skipped lunch cooked.",
+      "sentence_bad": "David: Why did you cook?\nSarah: Dinner cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why did you cook?\nSarah: I skipped lunch cooked."
+      ],
+      [
+        "",
+        " David: Why did you cook?\nSarah: Dinner cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -116.6325454711914,
+          false
+        ]
+      ],
+      [
+        [
+          -99.97631072998047,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -116.6325454711914,
+        false
+      ],
+      [
+        -99.97631072998047,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 105,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why did you cook?\nI was bored cooked.",
+      "sentence_bad": "Why did you cook?\nA sandwich cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why did you cook?\nI was bored cooked."
+      ],
+      [
+        "",
+        " Why did you cook?\nA sandwich cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -74.37216186523438,
+          false
+        ]
+      ],
+      [
+        [
+          -67.82122039794922,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -74.37216186523438,
+        false
+      ],
+      [
+        -67.82122039794922,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 106,
+    "doc": {
+      "row": 13,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why did you cook?\nB: I skipped lunch cooked.",
+      "sentence_bad": "A: Why did you cook?\nB: A sandwich cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why did you cook?\nB: I skipped lunch cooked."
+      ],
+      [
+        "",
+        " A: Why did you cook?\nB: A sandwich cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -112.73226928710938,
+          false
+        ]
+      ],
+      [
+        [
+          -102.26435852050781,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -112.73226928710938,
+        false
+      ],
+      [
+        -102.26435852050781,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 107,
+    "doc": {
+      "row": 13,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why did you eat?\nI was hungry.",
+      "sentence_bad": "Why did you eat?\nDinner."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why did you eat?\nI was hungry."
+      ],
+      [
+        "",
+        " Why did you eat?\nDinner."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -54.22224426269531,
+          false
+        ]
+      ],
+      [
+        [
+          -55.59442901611328,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -54.22224426269531,
+        false
+      ],
+      [
+        -55.59442901611328,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 108,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why do you study?\nB: For fun studies.",
+      "sentence_bad": "A: Why do you study?\nB: Science studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why do you study?\nB: For fun studies."
+      ],
+      [
+        "",
+        " A: Why do you study?\nB: Science studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -97.60905456542969,
+          false
+        ]
+      ],
+      [
+        [
+          -98.51700592041016,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -97.60905456542969,
+        false
+      ],
+      [
+        -98.51700592041016,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 109,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why do you teach?\nJust because teaches.",
+      "sentence_bad": "Why do you teach?\nHistory teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why do you teach?\nJust because teaches."
+      ],
+      [
+        "",
+        " Why do you teach?\nHistory teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -77.55558776855469,
+          false
+        ]
+      ],
+      [
+        [
+          -80.21497344970703,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -77.55558776855469,
+        false
+      ],
+      [
+        -80.21497344970703,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 110,
+    "doc": {
+      "row": 14,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why do you teach?\nJust because.",
+      "sentence_bad": "Why do you teach?\nScience."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why do you teach?\nJust because."
+      ],
+      [
+        "",
+        " Why do you teach?\nScience."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -61.804954528808594,
+          false
+        ]
+      ],
+      [
+        [
+          -64.58502197265625,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -61.804954528808594,
+        false
+      ],
+      [
+        -64.58502197265625,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 111,
+    "doc": {
+      "row": 14,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why do you study?\nB: Just because.",
+      "sentence_bad": "A: Why do you study?\nB: Science."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why do you study?\nB: Just because."
+      ],
+      [
+        "",
+        " A: Why do you study?\nB: Science."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -90.865234375,
+          false
+        ]
+      ],
+      [
+        [
+          -92.2115249633789,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -90.865234375,
+        false
+      ],
+      [
+        -92.2115249633789,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 112,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why do you teach?\nBecause i have to teaches.",
+      "sentence_bad": "Why do you teach?\nHistory teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why do you teach?\nBecause i have to teaches."
+      ],
+      [
+        "",
+        " Why do you teach?\nHistory teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -78.10162353515625,
+          false
+        ]
+      ],
+      [
+        [
+          -80.21497344970703,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -78.10162353515625,
+        false
+      ],
+      [
+        -80.21497344970703,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 113,
+    "doc": {
+      "row": 14,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why do you teach?\nB: For fun.",
+      "sentence_bad": "A: Why do you teach?\nB: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why do you teach?\nB: For fun."
+      ],
+      [
+        "",
+        " A: Why do you teach?\nB: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -91.24775695800781,
+          false
+        ]
+      ],
+      [
+        [
+          -82.79891967773438,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -91.24775695800781,
+        false
+      ],
+      [
+        -82.79891967773438,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 114,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "Why do you study?\nJust because studies.",
+      "sentence_bad": "Why do you study?\nScience studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " Why do you study?\nJust because studies."
+      ],
+      [
+        "",
+        " Why do you study?\nScience studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -71.67618560791016,
+          false
+        ]
+      ],
+      [
+        [
+          -68.62619018554688,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -71.67618560791016,
+        false
+      ],
+      [
+        -68.62619018554688,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 115,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why do you study?\nB: It's a job studies.",
+      "sentence_bad": "A: Why do you study?\nB: Science studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why do you study?\nB: It's a job studies."
+      ],
+      [
+        "",
+        " A: Why do you study?\nB: Science studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -103.02775573730469,
+          false
+        ]
+      ],
+      [
+        [
+          -98.51700592041016,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -103.02775573730469,
+        false
+      ],
+      [
+        -98.51700592041016,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 116,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why do you study?\nSarah: Out of interest studies.",
+      "sentence_bad": "David: Why do you study?\nSarah: History studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why do you study?\nSarah: Out of interest studies."
+      ],
+      [
+        "",
+        " David: Why do you study?\nSarah: History studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.42720031738281,
+          false
+        ]
+      ],
+      [
+        [
+          -105.27478790283203,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.42720031738281,
+        false
+      ],
+      [
+        -105.27478790283203,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 117,
+    "doc": {
+      "row": 14,
+      "fragment": "fragment",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "David: Why do you study?\nSarah: Out of interest.",
+      "sentence_bad": "David: Why do you study?\nSarah: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: Why do you study?\nSarah: Out of interest."
+      ],
+      [
+        "",
+        " David: Why do you study?\nSarah: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -97.90766906738281,
+          false
+        ]
+      ],
+      [
+        [
+          -88.23023223876953,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -97.90766906738281,
+        false
+      ],
+      [
+        -88.23023223876953,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 118,
+    "doc": {
+      "row": 14,
+      "fragment": "sentence",
+      "contrast": "expl vs. NP (tricky)",
+      "sentence_good": "A: Why do you teach?\nB: For fun teaches.",
+      "sentence_bad": "A: Why do you teach?\nB: Math teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: Why do you teach?\nB: For fun teaches."
+      ],
+      [
+        "",
+        " A: Why do you teach?\nB: Math teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -106.87748718261719,
+          false
+        ]
+      ],
+      [
+        [
+          -107.40985870361328,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -106.87748718261719,
+        false
+      ],
+      [
+        -107.40985870361328,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 119,
+    "doc": {
+      "row": 15,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many were you reading?\nTen.",
+      "sentence_bad": "How many were you reading?\nA book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many were you reading?\nTen."
+      ],
+      [
+        "",
+        " How many were you reading?\nA book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -59.21324157714844,
+          false
+        ]
+      ],
+      [
+        [
+          -62.96702575683594,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -59.21324157714844,
+        false
+      ],
+      [
+        -62.96702575683594,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 120,
+    "doc": {
+      "row": 15,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many were you writing?\nB: Two.",
+      "sentence_bad": "A: How many were you writing?\nB: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many were you writing?\nB: Two."
+      ],
+      [
+        "",
+        " A: How many were you writing?\nB: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.25846099853516,
+          false
+        ]
+      ],
+      [
+        [
+          -88.60731506347656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.25846099853516,
+        false
+      ],
+      [
+        -88.60731506347656,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 121,
+    "doc": {
+      "row": 15,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "David: How many were you writing?\nSarah: A couple wrote.",
+      "sentence_bad": "David: How many were you writing?\nSarah: A book wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How many were you writing?\nSarah: A couple wrote."
+      ],
+      [
+        "",
+        " David: How many were you writing?\nSarah: A book wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -112.04354095458984,
+          false
+        ]
+      ],
+      [
+        [
+          -108.58439636230469,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -112.04354095458984,
+        false
+      ],
+      [
+        -108.58439636230469,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 122,
+    "doc": {
+      "row": 15,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many were you writing?\nA lot wrote.",
+      "sentence_bad": "How many were you writing?\nAn essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many were you writing?\nA lot wrote."
+      ],
+      [
+        "",
+        " How many were you writing?\nAn essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -77.63177490234375,
+          false
+        ]
+      ],
+      [
+        [
+          -76.81742858886719,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -77.63177490234375,
+        false
+      ],
+      [
+        -76.81742858886719,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 123,
+    "doc": {
+      "row": 15,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many were you reading?\nA couple read.",
+      "sentence_bad": "How many were you reading?\nAn essay read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many were you reading?\nA couple read."
+      ],
+      [
+        "",
+        " How many were you reading?\nAn essay read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -69.43385314941406,
+          false
+        ]
+      ],
+      [
+        [
+          -70.75179290771484,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -69.43385314941406,
+        false
+      ],
+      [
+        -70.75179290771484,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 124,
+    "doc": {
+      "row": 16,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many did you cook?\nB: Two cooked.",
+      "sentence_bad": "A: How many did you cook?\nB: Pasta cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many did you cook?\nB: Two cooked."
+      ],
+      [
+        "",
+        " A: How many did you cook?\nB: Pasta cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -98.59235382080078,
+          false
+        ]
+      ],
+      [
+        [
+          -113.26930236816406,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -98.59235382080078,
+        false
+      ],
+      [
+        -113.26930236816406,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 125,
+    "doc": {
+      "row": 16,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "David: How many did you eat?\nSarah: Three ate.",
+      "sentence_bad": "David: How many did you eat?\nSarah: A sandwich ate."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How many did you eat?\nSarah: Three ate."
+      ],
+      [
+        "",
+        " David: How many did you eat?\nSarah: A sandwich ate."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -107.46002197265625,
+          false
+        ]
+      ],
+      [
+        [
+          -107.67567443847656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -107.46002197265625,
+        false
+      ],
+      [
+        -107.67567443847656,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 126,
+    "doc": {
+      "row": 16,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many did you eat?\nOne.",
+      "sentence_bad": "How many did you eat?\nLunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many did you eat?\nOne."
+      ],
+      [
+        "",
+        " How many did you eat?\nLunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -56.890037536621094,
+          false
+        ]
+      ],
+      [
+        [
+          -64.31941986083984,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -56.890037536621094,
+        false
+      ],
+      [
+        -64.31941986083984,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 127,
+    "doc": {
+      "row": 16,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many did you eat?\nA few.",
+      "sentence_bad": "How many did you eat?\nPasta."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many did you eat?\nA few."
+      ],
+      [
+        "",
+        " How many did you eat?\nPasta."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -60.966461181640625,
+          false
+        ]
+      ],
+      [
+        [
+          -69.94412231445312,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -60.966461181640625,
+        false
+      ],
+      [
+        -69.94412231445312,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 128,
+    "doc": {
+      "row": 16,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many did you eat?\nOne.",
+      "sentence_bad": "How many did you eat?\nA sandwich."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many did you eat?\nOne."
+      ],
+      [
+        "",
+        " How many did you eat?\nA sandwich."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -56.890037536621094,
+          false
+        ]
+      ],
+      [
+        [
+          -62.58930206298828,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -56.890037536621094,
+        false
+      ],
+      [
+        -62.58930206298828,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 129,
+    "doc": {
+      "row": 17,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many do you study?\nB: One studies.",
+      "sentence_bad": "A: How many do you study?\nB: Science studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many do you study?\nB: One studies."
+      ],
+      [
+        "",
+        " A: How many do you study?\nB: Science studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -100.69501495361328,
+          false
+        ]
+      ],
+      [
+        [
+          -102.95218658447266,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -100.69501495361328,
+        false
+      ],
+      [
+        -102.95218658447266,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 130,
+    "doc": {
+      "row": 17,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many do you teach?\nA lot.",
+      "sentence_bad": "How many do you teach?\nScience."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many do you teach?\nA lot."
+      ],
+      [
+        "",
+        " How many do you teach?\nScience."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -62.49568176269531,
+          false
+        ]
+      ],
+      [
+        [
+          -67.60975646972656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -62.49568176269531,
+        false
+      ],
+      [
+        -67.60975646972656,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 131,
+    "doc": {
+      "row": 17,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "David: How many do you study?\nSarah: A few.",
+      "sentence_bad": "David: How many do you study?\nSarah: Math."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How many do you study?\nSarah: A few."
+      ],
+      [
+        "",
+        " David: How many do you study?\nSarah: Math."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -100.62104797363281,
+          false
+        ]
+      ],
+      [
+        [
+          -99.52667236328125,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -100.62104797363281,
+        false
+      ],
+      [
+        -99.52667236328125,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 132,
+    "doc": {
+      "row": 17,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many do you study?\nB: Ten.",
+      "sentence_bad": "A: How many do you study?\nB: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many do you study?\nB: Ten."
+      ],
+      [
+        "",
+        " A: How many do you study?\nB: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.46772003173828,
+          false
+        ]
+      ],
+      [
+        [
+          -85.49701690673828,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.46772003173828,
+        false
+      ],
+      [
+        -85.49701690673828,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 133,
+    "doc": {
+      "row": 17,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many do you study?\nB: Ten.",
+      "sentence_bad": "A: How many do you study?\nB: Science."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many do you study?\nB: Ten."
+      ],
+      [
+        "",
+        " A: How many do you study?\nB: Science."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.46772003173828,
+          false
+        ]
+      ],
+      [
+        [
+          -97.55728912353516,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.46772003173828,
+        false
+      ],
+      [
+        -97.55728912353516,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 134,
+    "doc": {
+      "row": 17,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "David: How many do you teach?\nSarah: Ten teaches.",
+      "sentence_bad": "David: How many do you teach?\nSarah: Science teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How many do you teach?\nSarah: Ten teaches."
+      ],
+      [
+        "",
+        " David: How many do you teach?\nSarah: Science teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -115.32916259765625,
+          false
+        ]
+      ],
+      [
+        [
+          -110.70877838134766,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -115.32916259765625,
+        false
+      ],
+      [
+        -110.70877838134766,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 135,
+    "doc": {
+      "row": 17,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "David: How many do you study?\nSarah: A couple.",
+      "sentence_bad": "David: How many do you study?\nSarah: Math."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How many do you study?\nSarah: A couple."
+      ],
+      [
+        "",
+        " David: How many do you study?\nSarah: Math."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -101.87228393554688,
+          false
+        ]
+      ],
+      [
+        [
+          -99.52667236328125,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -101.87228393554688,
+        false
+      ],
+      [
+        -99.52667236328125,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 136,
+    "doc": {
+      "row": 17,
+      "fragment": "sentence",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "David: How many do you study?\nSarah: A few studies.",
+      "sentence_bad": "David: How many do you study?\nSarah: History studies."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How many do you study?\nSarah: A few studies."
+      ],
+      [
+        "",
+        " David: How many do you study?\nSarah: History studies."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.5771255493164,
+          false
+        ]
+      ],
+      [
+        [
+          -111.7021484375,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.5771255493164,
+        false
+      ],
+      [
+        -111.7021484375,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 137,
+    "doc": {
+      "row": 17,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many do you teach?\nB: A few.",
+      "sentence_bad": "A: How many do you teach?\nB: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many do you teach?\nB: A few."
+      ],
+      [
+        "",
+        " A: How many do you teach?\nB: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -92.55339813232422,
+          false
+        ]
+      ],
+      [
+        [
+          -85.25508117675781,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -92.55339813232422,
+        false
+      ],
+      [
+        -85.25508117675781,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 138,
+    "doc": {
+      "row": 18,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many did you clean?\nA lot.",
+      "sentence_bad": "How many did you clean?\nThe tiles."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many did you clean?\nA lot."
+      ],
+      [
+        "",
+        " How many did you clean?\nThe tiles."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -62.69337463378906,
+          false
+        ]
+      ],
+      [
+        [
+          -69.31597900390625,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -62.69337463378906,
+        false
+      ],
+      [
+        -69.31597900390625,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 139,
+    "doc": {
+      "row": 18,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many did you clean?\nB: Ten.",
+      "sentence_bad": "A: How many did you clean?\nB: The rug."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many did you clean?\nB: Ten."
+      ],
+      [
+        "",
+        " A: How many did you clean?\nB: The rug."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.05174255371094,
+          false
+        ]
+      ],
+      [
+        [
+          -94.55315399169922,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.05174255371094,
+        false
+      ],
+      [
+        -94.55315399169922,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 140,
+    "doc": {
+      "row": 18,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "How many did you clean?\nTen.",
+      "sentence_bad": "How many did you clean?\nThe patio."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How many did you clean?\nTen."
+      ],
+      [
+        "",
+        " How many did you clean?\nThe patio."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -58.34062194824219,
+          false
+        ]
+      ],
+      [
+        [
+          -73.4687271118164,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -58.34062194824219,
+        false
+      ],
+      [
+        -73.4687271118164,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 141,
+    "doc": {
+      "row": 18,
+      "fragment": "fragment",
+      "contrast": "num vs. NP (tricky)",
+      "sentence_good": "A: How many did you clean?\nB: A lot.",
+      "sentence_bad": "A: How many did you clean?\nB: The patio."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How many did you clean?\nB: A lot."
+      ],
+      [
+        "",
+        " A: How many did you clean?\nB: The patio."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -88.9521484375,
+          false
+        ]
+      ],
+      [
+        [
+          -98.99961853027344,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -88.9521484375,
+        false
+      ],
+      [
+        -98.99961853027344,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 142,
+    "doc": {
+      "row": 19,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How were you writing?\nB: Slowly.",
+      "sentence_bad": "A: How were you writing?\nB: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How were you writing?\nB: Slowly."
+      ],
+      [
+        "",
+        " A: How were you writing?\nB: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -96.45890808105469,
+          false
+        ]
+      ],
+      [
+        [
+          -89.20865631103516,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -96.45890808105469,
+        false
+      ],
+      [
+        -89.20865631103516,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 143,
+    "doc": {
+      "row": 19,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "David: How were you reading?\nSarah: By candle light.",
+      "sentence_bad": "David: How were you reading?\nSarah: A book."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How were you reading?\nSarah: By candle light."
+      ],
+      [
+        "",
+        " David: How were you reading?\nSarah: A book."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -114.23800659179688,
+          false
+        ]
+      ],
+      [
+        [
+          -98.571533203125,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -114.23800659179688,
+        false
+      ],
+      [
+        -98.571533203125,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 144,
+    "doc": {
+      "row": 19,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How were you writing?\nBy candle light.",
+      "sentence_bad": "How were you writing?\nAn essay."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How were you writing?\nBy candle light."
+      ],
+      [
+        "",
+        " How were you writing?\nAn essay."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -80.92486572265625,
+          false
+        ]
+      ],
+      [
+        [
+          -67.88737487792969,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -80.92486572265625,
+        false
+      ],
+      [
+        -67.88737487792969,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 145,
+    "doc": {
+      "row": 19,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How were you writing?\nQuickly wrote.",
+      "sentence_bad": "How were you writing?\nA letter wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How were you writing?\nQuickly wrote."
+      ],
+      [
+        "",
+        " How were you writing?\nA letter wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -73.1075668334961,
+          false
+        ]
+      ],
+      [
+        [
+          -71.27222442626953,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -73.1075668334961,
+        false
+      ],
+      [
+        -71.27222442626953,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 146,
+    "doc": {
+      "row": 19,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How were you writing?\nBy candle light wrote.",
+      "sentence_bad": "How were you writing?\nAn essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How were you writing?\nBy candle light wrote."
+      ],
+      [
+        "",
+        " How were you writing?\nAn essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -97.52366638183594,
+          false
+        ]
+      ],
+      [
+        [
+          -75.82905578613281,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -97.52366638183594,
+        false
+      ],
+      [
+        -75.82905578613281,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 147,
+    "doc": {
+      "row": 19,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How were you writing?\nCarefully wrote.",
+      "sentence_bad": "How were you writing?\nAn essay wrote."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How were you writing?\nCarefully wrote."
+      ],
+      [
+        "",
+        " How were you writing?\nAn essay wrote."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -75.54241943359375,
+          false
+        ]
+      ],
+      [
+        [
+          -75.82905578613281,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -75.54241943359375,
+        false
+      ],
+      [
+        -75.82905578613281,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 148,
+    "doc": {
+      "row": 19,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How were you reading?\nB: Slowly.",
+      "sentence_bad": "A: How were you reading?\nB: A letter."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How were you reading?\nB: Slowly."
+      ],
+      [
+        "",
+        " A: How were you reading?\nB: A letter."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -95.3043212890625,
+          false
+        ]
+      ],
+      [
+        [
+          -87.93032836914062,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -95.3043212890625,
+        false
+      ],
+      [
+        -87.93032836914062,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 149,
+    "doc": {
+      "row": 19,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How were you reading?\nB: Slowly read.",
+      "sentence_bad": "A: How were you reading?\nB: A book read."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How were you reading?\nB: Slowly read."
+      ],
+      [
+        "",
+        " A: How were you reading?\nB: A book read."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -106.43870544433594,
+          false
+        ]
+      ],
+      [
+        [
+          -95.26417541503906,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -106.43870544433594,
+        false
+      ],
+      [
+        -95.26417541503906,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 150,
+    "doc": {
+      "row": 20,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "David: How did you eat?\nSarah: Quickly.",
+      "sentence_bad": "David: How did you eat?\nSarah: Lunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How did you eat?\nSarah: Quickly."
+      ],
+      [
+        "",
+        " David: How did you eat?\nSarah: Lunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -92.71299743652344,
+          false
+        ]
+      ],
+      [
+        [
+          -98.44496154785156,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -92.71299743652344,
+        false
+      ],
+      [
+        -98.44496154785156,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 151,
+    "doc": {
+      "row": 20,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How did you cook?\nB: Carefully cooked.",
+      "sentence_bad": "A: How did you cook?\nB: Lunch cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How did you cook?\nB: Carefully cooked."
+      ],
+      [
+        "",
+        " A: How did you cook?\nB: Lunch cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.82286071777344,
+          false
+        ]
+      ],
+      [
+        [
+          -111.55355834960938,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.82286071777344,
+        false
+      ],
+      [
+        -111.55355834960938,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 152,
+    "doc": {
+      "row": 20,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How did you eat?\nSlowly.",
+      "sentence_bad": "How did you eat?\nLunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How did you eat?\nSlowly."
+      ],
+      [
+        "",
+        " How did you eat?\nLunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -58.399444580078125,
+          false
+        ]
+      ],
+      [
+        [
+          -61.517616271972656,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -58.399444580078125,
+        false
+      ],
+      [
+        -61.517616271972656,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 153,
+    "doc": {
+      "row": 20,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "David: How did you cook?\nSarah: Quickly.",
+      "sentence_bad": "David: How did you cook?\nSarah: Lunch."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How did you cook?\nSarah: Quickly."
+      ],
+      [
+        "",
+        " David: How did you cook?\nSarah: Lunch."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -92.41030883789062,
+          false
+        ]
+      ],
+      [
+        [
+          -96.87837219238281,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -92.41030883789062,
+        false
+      ],
+      [
+        -96.87837219238281,
+        false
+      ]
+    ],
+    "acc": 1.0
+  },
+  {
+    "doc_id": 154,
+    "doc": {
+      "row": 20,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "David: How did you cook?\nSarah: With tongs cooked.",
+      "sentence_bad": "David: How did you cook?\nSarah: Lunch cooked."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How did you cook?\nSarah: With tongs cooked."
+      ],
+      [
+        "",
+        " David: How did you cook?\nSarah: Lunch cooked."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -120.36981201171875,
+          false
+        ]
+      ],
+      [
+        [
+          -115.18113708496094,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -120.36981201171875,
+        false
+      ],
+      [
+        -115.18113708496094,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 155,
+    "doc": {
+      "row": 20,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How did you cook?\nWith tongs.",
+      "sentence_bad": "How did you cook?\nPasta."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How did you cook?\nWith tongs."
+      ],
+      [
+        "",
+        " How did you cook?\nPasta."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -70.73921966552734,
+          false
+        ]
+      ],
+      [
+        [
+          -65.2601318359375,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -70.73921966552734,
+        false
+      ],
+      [
+        -65.2601318359375,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 156,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How do you study?\nSlowly.",
+      "sentence_bad": "How do you study?\nHistory."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How do you study?\nSlowly."
+      ],
+      [
+        "",
+        " How do you study?\nHistory."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -60.7989501953125,
+          false
+        ]
+      ],
+      [
+        [
+          -57.39024353027344,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -60.7989501953125,
+        false
+      ],
+      [
+        -57.39024353027344,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 157,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "David: How do you study?\nSarah: Following an online course.",
+      "sentence_bad": "David: How do you study?\nSarah: History."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How do you study?\nSarah: Following an online course."
+      ],
+      [
+        "",
+        " David: How do you study?\nSarah: History."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -110.66966247558594,
+          false
+        ]
+      ],
+      [
+        [
+          -89.23259735107422,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -110.66966247558594,
+        false
+      ],
+      [
+        -89.23259735107422,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 158,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How do you teach?\nB: Carefully.",
+      "sentence_bad": "A: How do you teach?\nB: Science."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How do you teach?\nB: Carefully."
+      ],
+      [
+        "",
+        " A: How do you teach?\nB: Science."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -96.03633117675781,
+          false
+        ]
+      ],
+      [
+        [
+          -92.43769836425781,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -96.03633117675781,
+        false
+      ],
+      [
+        -92.43769836425781,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 159,
+    "doc": {
+      "row": 21,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How do you teach?\nSlowly teaches.",
+      "sentence_bad": "How do you teach?\nScience teaches."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How do you teach?\nSlowly teaches."
+      ],
+      [
+        "",
+        " How do you teach?\nScience teaches."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -79.87616729736328,
+          false
+        ]
+      ],
+      [
+        [
+          -75.35001373291016,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -79.87616729736328,
+        false
+      ],
+      [
+        -75.35001373291016,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 160,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How do you teach?\nFollowing an online course.",
+      "sentence_bad": "How do you teach?\nHistory."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How do you teach?\nFollowing an online course."
+      ],
+      [
+        "",
+        " How do you teach?\nHistory."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -79.68101501464844,
+          false
+        ]
+      ],
+      [
+        [
+          -57.29779815673828,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -79.68101501464844,
+        false
+      ],
+      [
+        -57.29779815673828,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 161,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "How do you teach?\nQuickly.",
+      "sentence_bad": "How do you teach?\nHistory."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " How do you teach?\nQuickly."
+      ],
+      [
+        "",
+        " How do you teach?\nHistory."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -58.91670227050781,
+          false
+        ]
+      ],
+      [
+        [
+          -57.29779815673828,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -58.91670227050781,
+        false
+      ],
+      [
+        -57.29779815673828,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 162,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "David: How do you teach?\nSarah: Following an online course.",
+      "sentence_bad": "David: How do you teach?\nSarah: Science."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " David: How do you teach?\nSarah: Following an online course."
+      ],
+      [
+        "",
+        " David: How do you teach?\nSarah: Science."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -111.41888427734375,
+          false
+        ]
+      ],
+      [
+        [
+          -96.66771697998047,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -111.41888427734375,
+        false
+      ],
+      [
+        -96.66771697998047,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 163,
+    "doc": {
+      "row": 21,
+      "fragment": "fragment",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How do you study?\nB: Slowly.",
+      "sentence_bad": "A: How do you study?\nB: Math."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How do you study?\nB: Slowly."
+      ],
+      [
+        "",
+        " A: How do you study?\nB: Math."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -90.35045623779297,
+          false
+        ]
+      ],
+      [
+        [
+          -86.33744812011719,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -90.35045623779297,
+        false
+      ],
+      [
+        -86.33744812011719,
+        false
+      ]
+    ],
+    "acc": 0.0
+  },
+  {
+    "doc_id": 164,
+    "doc": {
+      "row": 22,
+      "fragment": "sentence",
+      "contrast": "manner vs. NP (tricky)",
+      "sentence_good": "A: How did you clean?\nB: I cleaned slowly.",
+      "sentence_bad": "A: How did you clean?\nB: I cleaned the floor."
+    },
+    "target": 0,
+    "arguments": [
+      [
+        "",
+        " A: How did you clean?\nB: I cleaned slowly."
+      ],
+      [
+        "",
+        " A: How did you clean?\nB: I cleaned the floor."
+      ]
+    ],
+    "resps": [
+      [
+        [
+          -99.41091918945312,
+          false
+        ]
+      ],
+      [
+        [
+          -94.84395599365234,
+          false
+        ]
+      ]
+    ],
+    "filtered_resps": [
+      [
+        -99.41091918945312,
+        false
+      ],
+      [
+        -94.84395599365234,
+        false
+      ]
+    ],
+    "acc": 0.0
+  }
+]
